@@ -71,7 +71,7 @@ namespace MediaBrowser.ServerApplication
             contextMenuStrip1.Items.AddRange(new ToolStripItem[] {
             cmdBrowse,
             cmdConfigure,
-            cmdPremiere,
+            //cmdPremiere,
             toolStripSeparator2,
             cmdRestart,
             toolStripSeparator1,
